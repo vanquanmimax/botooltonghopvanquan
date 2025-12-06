@@ -1,0 +1,16 @@
+{
+    "version":  "veo3.1.1",
+    "downloadUrl":  "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/vveo3.1.1/Veo3_vveo3.1.1.zip",
+    "releaseNotes":  "Cap nhat he thong license va auto-update",
+    "releaseDate":  "2025-12-06",
+    "minimumVersion":  "3.0.0",
+    "changelog":  [
+                      "Them he thong license 1 may 1 license",
+                      "Them tinh nang auto-update",
+                      "Toi uu hieu suat",
+                      "Sua loi nho"
+                  ],
+    "fileSize":  "150 MB",
+    "sha256":  "abc123def456...",
+    "updateRequired":  false
+}
